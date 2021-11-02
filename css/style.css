@@ -42,6 +42,7 @@ body {
 .btn:visited {
   display: inline-block;
   font-size: 2rem;
+  font-weight: 600;
   text-decoration: none;
   padding: 1.6rem 3.2rem;
   border-radius: 9px;
@@ -72,4 +73,19 @@ body {
 }
 .margin-right-sm {
   margin-right: 1.6rem;
+}
+.delivered-meals {
+  display: flex;
+}
+.delivered-img {
+  display: flex;
+}
+.delivered-img img {
+  height: 6.4rem;
+  width: 6.4rem;
+  border-radius: 50%;
+}
+.delivered-text {
+  font-size: 1.8rem;
+  font-weight: 600;
 }
