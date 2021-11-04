@@ -27,7 +27,7 @@ body {
   display: grid;
   gap: 9.6rem;
 }
-.grid--2--col {
+.grid--2-cols {
   grid-template-columns: repeat(2, 1fr);
 }
 .grid--3--col {
@@ -186,5 +186,7 @@ body {
 /******************************/
 .section-how {
   padding: 9.6px 0;
-  background-color: orangered;
+}
+.step-img {
+  width: 50%;
 }
