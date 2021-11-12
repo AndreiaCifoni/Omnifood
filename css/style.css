@@ -118,7 +118,23 @@ body {
   color: #cf711f;
   border-bottom: 1px solid transparent;
 }
-
+.list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+.list-item {
+  font-size: 1.8rem;
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+}
+.list-icon {
+  width: 30px;
+  height: 30px;
+  color: #e67e22;
+}
 /******************************/
 /*HELPER/SETTINGS CLASSES*/
 /******************************/
@@ -393,38 +409,27 @@ strong {
   text-align: center;
   font-size: 1.8rem;
 }
-.list {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  gap: 1.6rem;
-}
-.list-item {
-  font-size: 1.8rem;
-  display: flex;
-  align-items: center;
-  gap: 1.6rem;
-}
-.list-icon {
-  width: 30px;
-  height: 30px;
-  color: #e67e22;
-}
 
 /******************************/
 /*TESTIMONIALS SECTION*/
 /******************************/
 
 .section-testimonials {
+  background-color: #fdf2e9;
+  display: grid;
+  grid-template-columns: 55fr 45fr;
+  align-items: center;
+}
+.testimonials-container {
   padding: 9.6rem 0;
 }
 .testimonials {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 4.8rem;
+  row-gap: 4.8rem;
+  column-gap: 8rem;
 }
-.testimonial. {
-}
+
 .testimonial-img {
   width: 6.4rem;
   border-radius: 50%;
@@ -437,14 +442,31 @@ strong {
 }
 .testimonial-name {
   font-size: 1.6rem;
-  color: #777;
+  color: #6f6f6f;
 }
 .gallery {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1.6rem;
+  padding: 1.6rem;
+}
+.gallery-item {
+  overflow: hidden;
+  /* pra nao ultrapassar o espaco da imagem, na hora do hover... a imagem da o scale no tamanho do containerzinho dela e nao expande pra fora  */
 }
 .gallery-item img {
   display: block;
   width: 100%;
+  transition: all 0.4s;
+}
+.gallery-item img:hover {
+  transform: scale(1.1);
+}
+
+/******************************/
+/*PRICING SECTION*/
+/******************************/
+
+.section-pricing {
+  padding: 9.6rem 0;
 }
