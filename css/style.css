@@ -44,6 +44,9 @@ body {
 .grid--4-col {
   grid-template-columns: repeat(4, 1fr);
 }
+.grid--5-col {
+  grid-template-columns: repeat(5, 1fr);
+}
 .grid--center-v {
   align-items: center;
 }
@@ -658,4 +661,12 @@ strong {
 .cta *:focus {
   outline: none;
   box-shadow: 0 0 0 0.8rem rgba(253, 242, 233, 0.5);
+}
+
+/******************************/
+/*FOOTER SECTION*/
+/******************************/
+
+.footer {
+  padding: 9.6rem 0;
 }
