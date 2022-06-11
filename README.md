@@ -16,7 +16,7 @@ This application was buit with:
 
 ## Getting Started
 No prerequisites or installation needed. Since the application is already deployed, the client just need to enter in the following web page:
-[https://omnifood-andreia.netlify.app/](https://omnifood-andreia.netlify.app/))
+[https://omnifood-andreia.netlify.app/](https://omnifood-andreia.netlify.app/)
 
 ## Usage
 This application does not require any authentication to be navigated.
