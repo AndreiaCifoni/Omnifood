@@ -28,19 +28,19 @@ ___________________________________________________
 ## Usage
 This beautiful page already gives all the idea of how good Omnifood is. In The navbar, you can go directly to the section of interest: How it works, Meals, Testimonials, and Pricing.
 
-![Hero section Omnifood](https://res.cloudinary.com/deiacifoni/image/upload/v1667269339/projects/omnifood_hero_r3hjvc.jpg)
+![Hero section Omnifood](https://res.cloudinary.com/deiacifoni/image/upload/v1667269764/projects/omnifood1_oiksty.jpg)
 
 Then in the next sections, you have detailed instructions on how to set up the app, choose your preferences, and select your plan.
 
-![How it works](https://res.cloudinary.com/deiacifoni/image/upload/v1667269339/projects/omnifood_how_it_works_wkqp6t.jpg)
+![How it works](https://res.cloudinary.com/deiacifoni/image/upload/v1667269764/projects/omnifood2_qvu51u.jpg)
 
 Still in doubt? See what our customers say about our services on Testimonials.
 
-![Testimonials](https://res.cloudinary.com/deiacifoni/image/upload/v1667269339/projects/omnifood_testimonial_dxzlcu.jpg)
+![Testimonials](https://res.cloudinary.com/deiacifoni/image/upload/v1667269764/projects/omnifood3_ns7mrb.jpg)
 
 Subscribe and start now to eat tasty and healthy meals.
 
-![Subscribe](https://res.cloudinary.com/deiacifoni/image/upload/v1667269339/projects/omnifood_subscribejpg_wk57tb.jpg)
+![Subscribe](https://res.cloudinary.com/deiacifoni/image/upload/v1667269764/projects/omnifood4_rvqpoc.jpg)
 
 _____________________________________________________
 ## Contact
